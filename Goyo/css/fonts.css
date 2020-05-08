@@ -1,0 +1,52 @@
+@font-face {
+	font-family: "iconfont";
+	src: url("../fonts/iconfont.eot");
+	src: url("../fonts/iconfont.eot?#iefix") format("embedded-opentype"),
+		url("../fonts/iconfont.woff2") format("woff2"),
+		url("../fonts/iconfont.woff") format("woff"),
+		url("../fonts/iconfont.ttf") format("truetype"),
+		url("../fonts/iconfont.svg#iconfont") format("svg");
+}
+.iconfont {
+	font-family: "iconfont" !important;
+	font-size: 26px;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.list- {
+	font-size: 30px;
+	color: #cccac8;
+}
+.list-f {
+	font-size: 50px;
+	line-height: 25px;
+	color: #cccac8;
+}
+.search-btn {
+	color: #656565;
+}
+
+.righthaha {
+	color: #b0b0b0;
+	font-size: 25px;
+}
+
+.wwbo,
+.wwxb {
+	font-size: 24px;
+}
+
+.wwbo:hover,
+.wwxb:hover {
+	color: #ff6700;
+}
+
+.message {
+	color: #ff6700;
+}
+
+.fixed {
+	font-size: 30px;
+	color: #999999;
+}
